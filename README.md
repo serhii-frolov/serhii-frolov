@@ -13,7 +13,7 @@ and three operating systems.
 **Currently building:** a public Playwright + TypeScript E2E suite against Conduit —
 suite-first, refactored by real defects (flake → auto-waiting, slow login → fixtures and
 `storageState`, 8-minute runs → sharding, unreproducible CI failures → trace viewer).
-Started 2026-09-09 — the commit history is the point as much as the final tree.
+[**pw-conduit**](https://github.com/serhii-frolov/pw-conduit) — started 2026-09-09; the commit history is the point as much as the final tree.
 
 **Interested in:** SDET / QA automation roles, Prague or EU remote.
 
